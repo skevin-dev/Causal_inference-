@@ -1,0 +1,16 @@
+2022-07-11 13:57:03,458:Scripts.App_log:successfully load the dataset
+2022-07-11 14:31:11,381:Scripts.App_log:successfully load the dataset
+2022-07-11 14:32:25,011:Scripts.App_log:successfully load the dataset
+2022-07-11 14:34:35,571:Scripts.App_log:successfully load the dataset
+2022-07-11 14:45:44,948:Scripts.App_log:successfully load the dataset
+2022-07-11 14:51:17,592:Scripts.App_log:successfully load the dataset
+2022-07-11 14:51:40,607:Scripts.App_log:successfully load the dataset
+2022-07-11 14:52:59,203:Scripts.App_log:successfully load the dataset
+2022-07-11 14:53:44,347:Scripts.App_log:successfully load the dataset
+2022-07-11 15:00:31,716:Scripts.App_log:successfully load the dataset
+2022-07-11 15:08:32,174:Scripts.App_log:successfully load the dataset
+2022-07-11 15:08:32,286:Scripts.App_log:drop columns
+2022-07-11 15:08:32,352:Scripts.App_log:successfully retrieve the percentage of missing values
+2022-07-11 15:08:32,473:Scripts.App_log:successfully retrieve unique values
+2022-07-11 15:08:32,650:Scripts.App_log:successfully detect outliers
+2022-07-11 15:08:32,690:Scripts.App_log:successfully retrieve duplicates
