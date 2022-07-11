@@ -14,3 +14,22 @@
 2022-07-11 15:08:32,473:Scripts.App_log:successfully retrieve unique values
 2022-07-11 15:08:32,650:Scripts.App_log:successfully detect outliers
 2022-07-11 15:08:32,690:Scripts.App_log:successfully retrieve duplicates
+2022-07-11 16:09:00,404:Scripts.App_log:successfully plot bar plot
+2022-07-11 16:09:22,619:Scripts.App_log:successfully plot bar plot
+2022-07-11 16:11:37,834:Scripts.App_log:successfully plot heatmap
+2022-07-11 16:18:09,976:Scripts.App_log:successfully load the dataset
+2022-07-11 16:18:10,086:Scripts.App_log:drop columns
+2022-07-11 16:18:10,219:Scripts.App_log:successfully retrieve the percentage of missing values
+2022-07-11 16:18:10,428:Scripts.App_log:successfully retrieve unique values
+2022-07-11 16:18:10,598:Scripts.App_log:successfully detect outliers
+2022-07-11 16:18:10,627:Scripts.App_log:successfully retrieve duplicates
+2022-07-11 16:18:22,503:Scripts.App_log:successfully plot bar plot
+2022-07-11 16:18:33,770:Scripts.App_log:successfully plot heatmap
+2022-07-11 16:22:56,503:Scripts.App_log:successfully load the dataset
+2022-07-11 16:22:56,584:Scripts.App_log:drop columns
+2022-07-11 16:22:56,698:Scripts.App_log:successfully retrieve the percentage of missing values
+2022-07-11 16:22:56,836:Scripts.App_log:successfully retrieve unique values
+2022-07-11 16:22:56,972:Scripts.App_log:successfully detect outliers
+2022-07-11 16:22:56,996:Scripts.App_log:successfully retrieve duplicates
+2022-07-11 16:23:08,772:Scripts.App_log:successfully plot bar plot
+2022-07-11 16:23:18,932:Scripts.App_log:successfully plot heatmap
