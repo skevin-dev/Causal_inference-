@@ -241,3 +241,7 @@
 2022-07-12 14:29:24,549:Scripts.App_log:successfully detect outliers
 2022-07-12 14:55:07,356:Scripts.App_log:successfully detect outliers
 2022-07-12 14:58:37,531:Scripts.App_log:file saved as csv
+2022-07-12 19:09:39,868:Scripts.App_log:successfully load the dataset
+2022-07-12 19:15:40,787:Scripts.App_log:successfully scale data
+2022-07-12 20:48:45,919:Scripts.App_log:successfully load the dataset
+2022-07-12 20:48:46,026:Scripts.App_log:successfully scale data
