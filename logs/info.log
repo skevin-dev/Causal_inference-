@@ -245,3 +245,6 @@
 2022-07-12 19:15:40,787:Scripts.App_log:successfully scale data
 2022-07-12 20:48:45,919:Scripts.App_log:successfully load the dataset
 2022-07-12 20:48:46,026:Scripts.App_log:successfully scale data
+2022-07-12 21:00:58,640:Scripts.App_log:successfully load the dataset
+2022-07-12 21:00:58,733:Scripts.App_log:successfully scale data
+2022-07-12 21:05:45,575:Scripts.App_log:file saved as csv
