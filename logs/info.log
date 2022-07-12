@@ -44,3 +44,155 @@
 2022-07-11 16:33:18,736:Scripts.App_log:successfully plot boxplot
 2022-07-11 16:33:46,872:Scripts.App_log:successfully plot boxplot
 2022-07-11 16:34:55,036:Scripts.App_log:successfully plot boxplot
+2022-07-11 16:38:02,530:Scripts.App_log:successfully load the dataset
+2022-07-11 16:38:02,636:Scripts.App_log:drop columns
+2022-07-11 16:38:02,736:Scripts.App_log:successfully retrieve the percentage of missing values
+2022-07-11 16:38:02,975:Scripts.App_log:successfully retrieve unique values
+2022-07-11 16:38:03,171:Scripts.App_log:successfully detect outliers
+2022-07-11 16:38:03,216:Scripts.App_log:successfully retrieve duplicates
+2022-07-11 16:38:15,999:Scripts.App_log:successfully plot bar plot
+2022-07-11 16:38:27,138:Scripts.App_log:successfully plot heatmap
+2022-07-11 16:38:39,532:Scripts.App_log:successfully plot boxplot
+2022-07-11 16:38:40,665:Scripts.App_log:successfully plot boxplot
+2022-07-11 16:38:42,343:Scripts.App_log:successfully plot boxplot
+2022-07-11 16:45:52,982:Scripts.App_log:successfully load the dataset
+2022-07-11 16:45:53,081:Scripts.App_log:drop columns
+2022-07-11 16:45:53,152:Scripts.App_log:successfully retrieve the percentage of missing values
+2022-07-11 16:45:53,318:Scripts.App_log:successfully retrieve unique values
+2022-07-11 16:45:53,458:Scripts.App_log:successfully detect outliers
+2022-07-11 16:45:53,496:Scripts.App_log:successfully retrieve duplicates
+2022-07-11 16:46:05,520:Scripts.App_log:successfully plot bar plot
+2022-07-11 16:46:15,513:Scripts.App_log:successfully plot heatmap
+2022-07-11 16:46:28,525:Scripts.App_log:successfully plot boxplot
+2022-07-11 16:46:29,867:Scripts.App_log:successfully plot boxplot
+2022-07-11 16:46:31,215:Scripts.App_log:successfully plot boxplot
+2022-07-12 12:49:54,648:Scripts.App_log:successfully load the dataset
+2022-07-12 12:49:54,788:Scripts.App_log:drop columns
+2022-07-12 12:49:54,923:Scripts.App_log:successfully retrieve the percentage of missing values
+2022-07-12 12:49:55,240:Scripts.App_log:successfully retrieve unique values
+2022-07-12 12:49:55,515:Scripts.App_log:successfully detect outliers
+2022-07-12 12:49:55,558:Scripts.App_log:successfully retrieve duplicates
+2022-07-12 12:50:07,781:Scripts.App_log:successfully plot bar plot
+2022-07-12 12:50:17,583:Scripts.App_log:successfully plot heatmap
+2022-07-12 12:50:18,494:Scripts.App_log:successfully plot boxplot
+2022-07-12 12:50:19,395:Scripts.App_log:successfully plot boxplot
+2022-07-12 12:50:20,825:Scripts.App_log:successfully plot boxplot
+2022-07-12 12:59:32,311:Scripts.App_log:successfully normalize data
+2022-07-12 13:00:06,140:Scripts.App_log:successfully normalize data
+2022-07-12 13:00:08,872:Scripts.App_log:successfully plot boxplot
+2022-07-12 13:01:15,277:Scripts.App_log:successfully scale data
+2022-07-12 13:01:21,180:Scripts.App_log:successfully scale data
+2022-07-12 13:01:23,282:Scripts.App_log:successfully plot boxplot
+2022-07-12 13:02:04,713:Scripts.App_log:successfully plot boxplot
+2022-07-12 13:02:10,435:Scripts.App_log:successfully plot boxplot
+2022-07-12 13:44:16,397:Scripts.App_log:successfully load the dataset
+2022-07-12 13:44:16,482:Scripts.App_log:drop columns
+2022-07-12 13:44:16,545:Scripts.App_log:successfully retrieve the percentage of missing values
+2022-07-12 13:44:16,699:Scripts.App_log:successfully retrieve unique values
+2022-07-12 13:44:16,804:Scripts.App_log:successfully detect outliers
+2022-07-12 13:44:16,831:Scripts.App_log:successfully retrieve duplicates
+2022-07-12 13:44:33,406:Scripts.App_log:successfully plot bar plot
+2022-07-12 13:44:47,184:Scripts.App_log:successfully plot heatmap
+2022-07-12 13:44:47,242:Scripts.App_log:successfully scale data
+2022-07-12 13:44:49,814:Scripts.App_log:successfully plot boxplot
+2022-07-12 13:44:51,826:Scripts.App_log:successfully plot boxplot
+2022-07-12 13:44:53,669:Scripts.App_log:successfully plot boxplot
+2022-07-12 13:49:04,728:Scripts.App_log:successfully load the dataset
+2022-07-12 13:49:04,869:Scripts.App_log:drop columns
+2022-07-12 13:49:05,008:Scripts.App_log:successfully retrieve the percentage of missing values
+2022-07-12 13:49:05,515:Scripts.App_log:successfully retrieve unique values
+2022-07-12 13:49:05,988:Scripts.App_log:successfully detect outliers
+2022-07-12 13:49:06,038:Scripts.App_log:successfully retrieve duplicates
+2022-07-12 13:49:14,679:Scripts.App_log:successfully plot bar plot
+2022-07-12 13:49:24,530:Scripts.App_log:successfully plot heatmap
+2022-07-12 13:49:24,557:Scripts.App_log:successfully scale data
+2022-07-12 13:49:25,230:Scripts.App_log:successfully plot boxplot
+2022-07-12 13:49:26,118:Scripts.App_log:successfully plot boxplot
+2022-07-12 13:49:27,215:Scripts.App_log:successfully plot boxplot
+2022-07-12 13:58:46,880:Scripts.App_log:successfully load the dataset
+2022-07-12 13:58:46,971:Scripts.App_log:drop columns
+2022-07-12 13:58:47,051:Scripts.App_log:successfully retrieve the percentage of missing values
+2022-07-12 13:58:47,223:Scripts.App_log:successfully retrieve unique values
+2022-07-12 13:58:47,369:Scripts.App_log:successfully detect outliers
+2022-07-12 13:58:47,403:Scripts.App_log:successfully retrieve duplicates
+2022-07-12 13:58:55,494:Scripts.App_log:successfully plot bar plot
+2022-07-12 13:59:01,940:Scripts.App_log:successfully plot heatmap
+2022-07-12 13:59:01,977:Scripts.App_log:successfully scale data
+2022-07-12 13:59:02,719:Scripts.App_log:successfully plot boxplot
+2022-07-12 13:59:03,409:Scripts.App_log:successfully plot boxplot
+2022-07-12 13:59:04,361:Scripts.App_log:successfully plot boxplot
+2022-07-12 13:59:04,503:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,506:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,511:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,515:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,520:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,525:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,528:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,530:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,533:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,535:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,537:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,540:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,545:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,548:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,550:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,553:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,555:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,560:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,563:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,566:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,569:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,573:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,579:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,581:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,584:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,588:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,590:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,595:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,598:Scripts.App_log:successfully handle outliers
+2022-07-12 13:59:04,601:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:34,383:Scripts.App_log:successfully detect outliers
+2022-07-12 14:00:37,020:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,022:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,024:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,026:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,028:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,030:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,031:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,032:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,033:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,034:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,036:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,038:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,041:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,043:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,045:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,047:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,048:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,050:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,051:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,053:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,054:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,056:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,057:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,059:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,060:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,061:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,063:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,064:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,066:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,067:Scripts.App_log:successfully handle outliers
+2022-07-12 14:00:37,846:Scripts.App_log:successfully detect outliers
+2022-07-12 14:04:34,063:Scripts.App_log:successfully load the dataset
+2022-07-12 14:04:34,168:Scripts.App_log:drop columns
+2022-07-12 14:04:34,276:Scripts.App_log:successfully retrieve the percentage of missing values
+2022-07-12 14:04:34,458:Scripts.App_log:successfully retrieve unique values
+2022-07-12 14:04:34,665:Scripts.App_log:successfully detect outliers
+2022-07-12 14:04:34,708:Scripts.App_log:successfully retrieve duplicates
+2022-07-12 14:04:43,329:Scripts.App_log:successfully plot bar plot
+2022-07-12 14:04:50,999:Scripts.App_log:successfully plot heatmap
+2022-07-12 14:04:51,034:Scripts.App_log:successfully scale data
+2022-07-12 14:04:51,646:Scripts.App_log:successfully plot boxplot
+2022-07-12 14:04:52,358:Scripts.App_log:successfully plot boxplot
+2022-07-12 14:04:53,220:Scripts.App_log:successfully plot boxplot
+2022-07-12 14:09:42,709:Scripts.App_log:successfully detect outliers
