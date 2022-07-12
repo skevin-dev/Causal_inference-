@@ -196,3 +196,48 @@
 2022-07-12 14:04:52,358:Scripts.App_log:successfully plot boxplot
 2022-07-12 14:04:53,220:Scripts.App_log:successfully plot boxplot
 2022-07-12 14:09:42,709:Scripts.App_log:successfully detect outliers
+2022-07-12 14:26:58,555:Scripts.App_log:successfully load the dataset
+2022-07-12 14:26:58,629:Scripts.App_log:drop columns
+2022-07-12 14:26:58,709:Scripts.App_log:successfully retrieve the percentage of missing values
+2022-07-12 14:26:58,891:Scripts.App_log:successfully retrieve unique values
+2022-07-12 14:26:59,045:Scripts.App_log:successfully detect outliers
+2022-07-12 14:26:59,075:Scripts.App_log:successfully retrieve duplicates
+2022-07-12 14:27:06,955:Scripts.App_log:successfully plot bar plot
+2022-07-12 14:27:12,563:Scripts.App_log:successfully plot heatmap
+2022-07-12 14:27:12,596:Scripts.App_log:successfully scale data
+2022-07-12 14:27:13,237:Scripts.App_log:successfully plot boxplot
+2022-07-12 14:27:14,400:Scripts.App_log:successfully plot boxplot
+2022-07-12 14:27:16,161:Scripts.App_log:successfully plot boxplot
+2022-07-12 14:29:24,394:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,397:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,402:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,405:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,409:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,413:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,415:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,415:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,415:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,426:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,430:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,433:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,437:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,440:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,443:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,445:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,449:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,452:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,457:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,460:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,464:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,466:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,469:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,472:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,474:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,476:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,479:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,488:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,494:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,498:Scripts.App_log:successfully handle outliers
+2022-07-12 14:29:24,549:Scripts.App_log:successfully detect outliers
+2022-07-12 14:55:07,356:Scripts.App_log:successfully detect outliers
+2022-07-12 14:58:37,531:Scripts.App_log:file saved as csv
