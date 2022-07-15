@@ -81,3 +81,23 @@ class all_viz():
         fig.text(0.75,1, "  Malignant",{'font':'serif','size':14, 'weight':'bold','color':"red"}, alpha = 1)
 
         fig.show()
+
+    def plot_pair(self, df: pd.DataFrame, title: str, hue: str) -> None:
+        plt.figure(figsize=(10,8))
+        sns.pairplot(df,
+                     hue=hue,
+                     diag_kind='kde',
+                     plot_kws={'alpha': 0.6, 's': 80, 'edgecolor': 'k'},
+                     height=4)
+        plt.title(title, size=15)
+        plt.xticks(fontsize=20)
+        plt.yticks(fontsize=20)
+        plt.show()
+
+    def fix_outlier(self):
+        column_name=list(self.df.columns[2:])
+        for i in column_name:
+            upper_quartile=self.df[i].quantile(0.75)
+            lower_quartile=self.df[i].quantile(0.25)
+            self.df[i]=np.where(self.df[i]>upper_quartile,self.df[i].median(),np.where(self.df[i]<lower_quartile,self.df[i].median(),self.df[i]))
+        return self.df 

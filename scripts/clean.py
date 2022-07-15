@@ -146,3 +146,20 @@ class all_clean():
         dup = df.duplicated().sum()
         logger.info('successfully retrieve duplicates')
         return dup 
+
+    
+
+    def handling_outliers(self, df:pd.DataFrame,columns:str) -> pd.DataFrame:
+        """
+        -- handling missing values 
+        """
+        for col in columns:
+            Q1, Q3 = df[col].quantile(0.25), df[col].quantile(0.75)
+            IQR = Q3 - Q1
+            cut_off = IQR * 1.5
+            lower, upper = Q1 - cut_off, Q3 + cut_off
+
+            df[col] = np.where(df[col] > upper, upper, df[col])
+            df[col] = np.where(df[col] < lower, lower, df[col])
+
+            logger.info("successfully handle outliers")
